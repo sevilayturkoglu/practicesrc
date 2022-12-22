@@ -1,27 +1,140 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f30d74e4-a5e3-4c52-b0e3-8cc257d97146" name="Changes" comment="" />
+    <list default="true" id="f30d74e4-a5e3-4c52-b0e3-8cc257d97146" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaPracticeTeam108.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/BenimSoruCozumlerim/IfElseIfStatement/IntervievSorusu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/BenimSoruCozumlerim/IfElseIfStatement/pocketGuzelSoru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/BenimSoruCozumlerim/IfElseStatement/Soru1_EskenarUcgen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/BenimSoruCozumlerim/IfElseStatement/Soru2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/BenimSoruCozumlerim/IfElseStatement/Soru3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/BenimSoruCozumlerim/IfElseStatement/Soru4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/BenimSoruCozumlerim/IfElseStatement/Soru5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/day01/Q1_Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/day01/Q2_Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/day02/Q1_Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/day02/Q2_pirint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/day03/Q1_DikUcgen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/day03/Q2_BolmeOperatoruKullanmadanBolme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/day03/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/day05/deneme1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/day05/deneme2.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2HiWfXuVEzq19rbGxCAnDNQ7xd1" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/SEVILAY/IdeaProjects/JavaPracticeTeam108/src",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Soru2">
+    <configuration name="Q1_DikUcgen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.day03.Q1_DikUcgen" />
+      <module name="JavaPracticeTeam108" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.day03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Soru1_EskenarUcgen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.BenimSoruCozumlerim.IfElseStatement.Soru1_EskenarUcgen" />
+      <module name="JavaPracticeTeam108" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.BenimSoruCozumlerim.IfElseStatement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Soru2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.BenimSoruCozumlerim.IfElseStatement.Soru2" />
+      <module name="JavaPracticeTeam108" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.BenimSoruCozumlerim.IfElseStatement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="deneme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.deneme" />
+      <module name="JavaPracticeTeam108" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="deneme1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.day05.deneme1" />
+      <module name="JavaPracticeTeam108" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.day05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Soru2" />
+        <item itemvalue="Application.Soru1_EskenarUcgen" />
+        <item itemvalue="Application.deneme1" />
+        <item itemvalue="Application.deneme" />
+        <item itemvalue="Application.Q1_DikUcgen" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -43,5 +156,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
