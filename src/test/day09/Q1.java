@@ -1,6 +1,6 @@
-package test.day05;
+package test.day09;
 
-public class Q1_2DArrays {
+public class Q1 {
     public static void main(String[] args) {
 
     }
