@@ -5,30 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f30d74e4-a5e3-4c52-b0e3-8cc257d97146" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/AbdullahHocaDersTekrar/ATM_SORU/Islemler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/AbdullahHocaDersTekrar/ATM_SORU/Kullanici.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/AbdullahHocaDersTekrar/ATM_SORU/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/AbdullahHocaDersTekrar/Day6/InterfaceSoru/Daire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/AbdullahHocaDersTekrar/Day6/InterfaceSoru/Dikdortgen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/AbdullahHocaDersTekrar/Day6/InterfaceSoru/IInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/AbdullahHocaDersTekrar/Day6/InterfaceSoru/Kare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/AbdullahHocaDersTekrar/Day6/InterfaceSoru/RunnerHesapla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/AbdullahHocaDersTekrar/Day6/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/AbdullahHocaDersTekrar/Day6/Ogrenci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/AbdullahHocaDersTekrar/Day6/OgrenciBilgiYonetimiSoruKalibi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/AbdullahHocaDersTekrar/Day6/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/day06/Q1_BirimDonusturucu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/day06/Q2_KelimedekiHarflerinSayilariniBulma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/day07/TasKagitMakas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/day08/Q01_Ebob_Ekok.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/day08/Q_AsalSayi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/day09/Q1_FibonacciSayisi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/day09/fibo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/day09/silfibo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/BenimSoruCozumlerim/forIleIndexBulmak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/BenimSoruCozumlerim/soruGrup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/BenimSoruCozumlerim/sifreSorusuGuzel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/BenimSoruCozumlerim/sif.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/day06/Q1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/day06/Q2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/day07/FasKagitMakas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/day07/TopZiplama.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/day07/TopZiplama.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/day09/Q1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,39 +45,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.test.AbdullahHocaDersTekrar.Day6.Runner">
-    <configuration name="Q01_Ebob_Ekok" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.day08.Q01_Ebob_Ekok" />
+  <component name="RunManager" selected="Application.silfibo">
+    <configuration name="Q1_FibonacciSayisi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.day09.Q1_FibonacciSayisi" />
       <module name="JavaPracticeTeam108" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.day08.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q_AsalSayi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.day08.Q_AsalSayi" />
-      <module name="JavaPracticeTeam108" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.day08.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.AbdullahHocaDersTekrar.ATM_SORU.Runner" />
-      <module name="JavaPracticeTeam108" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.AbdullahHocaDersTekrar.ATM_SORU.*" />
+          <option name="PATTERN" value="test.day09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,6 +65,32 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="test.AbdullahHocaDersTekrar.Day6.InterfaceSoru.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fibo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.day09.fibo" />
+      <module name="JavaPracticeTeam108" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.day09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="silfibo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.day09.silfibo" />
+      <module name="JavaPracticeTeam108" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.day09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.silfibo" />
+        <item itemvalue="Application.fibo" />
+        <item itemvalue="Application.Q1_FibonacciSayisi" />
         <item itemvalue="Application.test.AbdullahHocaDersTekrar.Day6.Runner" />
         <item itemvalue="Application.RunnerHesapla" />
-        <item itemvalue="Application.Runner" />
-        <item itemvalue="Application.Q_AsalSayi" />
-        <item itemvalue="Application.Q01_Ebob_Ekok" />
       </list>
     </recent_temporary>
   </component>
